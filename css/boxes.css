@@ -237,3 +237,12 @@ h6 {
 table.center {
     margin-left: 49%;
 }
+
+
+.item {
+ width: 25%;
+ height: 25%
+ margin-left: auto;
+ margin-right: auto;
+ }
+
